@@ -7,6 +7,11 @@ badvinfoはBDAVディスクの情報をCSV出力するツールです。
 公開ページが既に閉鎖済みなので公開しました。
 Windows版です。macOS版は含みません。
 
+## 使い方
+使い方や詳細については[archive.org](https://web.archive.org/web/20170429155508/http://saysaysay.net/bdavtool/bdavinfo)を参照してください。
+
+ツール自体の再配布は自由ですが、公開ページの内容を転載することは明示的に許可されていないのでここには載せません。
+
 ## ライセンス
 > 再配布について
 > 
