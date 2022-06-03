@@ -4,7 +4,7 @@ Vesti La Giubba氏によるbadvinfoのミラーです。
 公開ページが既に閉鎖済みなので公開しました。
 Windows版です。macOS版は含みません。
 
-README.mdは配布ファイルに含まれている[bdavinfo.txt](bdavinfo21/bdavinfo.txt)をMarkdownに書き換えたものです。
+[README.md](README.md)は配布ファイルに含まれている[bdavinfo.txt](bdavinfo21/bdavinfo.txt)をMarkdownに書き換えたものです。
 
 ## ライセンス
 > 再配布について
